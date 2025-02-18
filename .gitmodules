@@ -1,0 +1,9 @@
+[submodule "shell00"]
+	path = shell00
+	url = git@vogsphere.42amman.com:vogsphere/intra-uuid-b9ab128d-3c43-40e3-bec2-dcfa3e6ca21a-6361600-okhaleel
+[submodule "shell01"]
+	path = shell01
+	url = git@vogsphere.42amman.com:vogsphere/intra-uuid-a3686f83-c212-4516-b294-22a6288a4ba9-6326457-okhaleel
+[submodule "C_00"]
+	path = C_00
+	url = git@vogsphere.42amman.com:vogsphere/intra-uuid-0589b594-040d-4bbc-87d0-2cdb83291d45-6332092-okhaleel
